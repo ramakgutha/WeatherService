@@ -1,0 +1,324 @@
+[
+	{
+		"temp":72,
+   		"pressure":1012,
+   		"humidity":81,
+   		"temp_min":64,
+   		"temp_max":75,
+   		"wind_speed":4.1,
+   		"name":"New York",
+		"id":2643743,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+		   
+	},
+	{
+		"temp":65,
+   		"pressure":1023,
+   		"humidity":66,
+   		"temp_min":62,
+   		"temp_max": 68,
+   		"wind_speed":6.1,
+   		"name":"Chicago",
+		"id":2643744,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+	},
+	{
+		"temp":75,
+   		"pressure":1053,
+   		"humidity":76,
+   		"temp_min":62,
+   		"temp_max": 81,
+   		"wind_speed":2.1,
+   		"name":"Los Angeles",
+		"id":2643745,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":85,
+   		"pressure":1011,
+   		"humidity":96,
+   		"temp_min":73,
+   		"temp_max": 88,
+   		"wind_speed":8.7,
+   		"name":"San Francisco",
+		"id":2643746,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+
+	},
+	{
+		"temp":65,
+   		"pressure":1010,
+   		"humidity":36,
+   		"temp_min":63,
+   		"temp_max": 75,
+   		"wind_speed":10.7,
+   		"name":"Boston",
+		"id":2643747,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":85,
+   		"pressure":1018,
+   		"humidity":86,
+   		"temp_min":73,
+   		"temp_max": 95,
+   		"wind_speed":2.7,
+   		"name":"Las Vegas",
+		"id":2643748,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":89,
+   		"pressure":1028,
+   		"humidity":87,
+   		"temp_min":83,
+   		"temp_max": 93,
+   		"wind_speed":9.0,
+   		"name":"Miami",
+		"id":2643749,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+
+	},
+	{
+		"temp":67,
+   		"pressure":1028,
+   		"humidity":43,
+   		"temp_min":60,
+   		"temp_max":69,
+   		"wind_speed":3.0,
+   		"name":"San Diego",
+		"id":2643750,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"
+
+	},
+	{
+		"temp":77,
+   		"pressure":1018,
+   		"humidity":63,
+   		"temp_min":70,
+   		"temp_max":79,
+   		"wind_speed":19.0,
+   		"name":"Philadelphia",
+		"id":2643751,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":77,
+   		"pressure":1012,
+   		"humidity":60,
+   		"temp_min":77,
+   		"temp_max":89,
+   		"wind_speed":12.0,
+   		"name":"Seattle",
+		"id":2643752,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":79,
+   		"pressure":1011,
+   		"humidity":60,
+   		"temp_min":77,
+   		"temp_max":84,
+   		"wind_speed":10.2,
+   		"name":"New Orleans",
+		"id":2643753,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"
+	},
+	{
+		"temp":90,
+   		"pressure":1010,
+   		"humidity":30,
+   		"temp_min":85,
+   		"temp_max":90,
+   		"wind_speed":11.2,
+   		"name":"Austin",
+		"id":2643754,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+		{
+		"temp":76,
+   		"pressure":1017,
+   		"humidity":60,
+   		"temp_min":70,
+   		"temp_max":85,
+   		"wind_speed":16.2,
+   		"name":"Nashville",
+		"id":2643755,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"
+	},
+	{
+		"temp":72,
+   		"pressure":1012,
+   		"humidity":81,
+   		"temp_min":64,
+   		"temp_max":75,
+   		"wind_speed":4.1,
+   		"name":"Edison",
+		"id":2643756,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+		   
+	},
+	{
+		"temp":65,
+   		"pressure":1023,
+   		"humidity":66,
+   		"temp_min":62,
+   		"temp_max": 68,
+   		"wind_speed":6.1,
+   		"name":"New Brunswick",
+		"id":2643757,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+	},
+	{
+		"temp":75,
+   		"pressure":1053,
+   		"humidity":76,
+   		"temp_min":62,
+   		"temp_max": 81,
+   		"wind_speed":2.1,
+   		"name":"Trenton",
+		"id":2643758,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":85,
+   		"pressure":1011,
+   		"humidity":96,
+   		"temp_min":73,
+   		"temp_max": 88,
+   		"wind_speed":8.7,
+   		"name":"Rahway",
+		"id":2643759,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+
+	},
+	{
+		"temp":65,
+   		"pressure":1010,
+   		"humidity":36,
+   		"temp_min":63,
+   		"temp_max": 75,
+   		"wind_speed":10.7,
+   		"name":"Woodbridge",
+		"id":2643760,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":75,
+   		"pressure":1053,
+   		"humidity":76,
+   		"temp_min":62,
+   		"temp_max": 81,
+   		"wind_speed":2.1,
+   		"name":"Aspen",
+		"id":2643761,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":85,
+   		"pressure":1011,
+   		"humidity":96,
+   		"temp_min":73,
+   		"temp_max": 88,
+   		"wind_speed":8.7,
+   		"name":"Princeton",
+		"id":2643762,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+
+	},
+	{
+		"temp":65,
+   		"pressure":1010,
+   		"humidity":36,
+   		"temp_min":63,
+   		"temp_max": 75,
+   		"wind_speed":10.7,
+   		"name":"East Windsor",
+		"id":2643763,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":75,
+   		"pressure":1053,
+   		"humidity":76,
+   		"temp_min":62,
+   		"temp_max": 81,
+   		"wind_speed":2.1,
+   		"name":"West Windsor",
+		"id":2643764,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":85,
+   		"pressure":1011,
+   		"humidity":96,
+   		"temp_min":73,
+   		"temp_max": 88,
+   		"wind_speed":8.7,
+   		"name":"Somerset",
+		"id":2643765,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+
+	},
+	{
+		"temp":65,
+   		"pressure":1010,
+   		"humidity":36,
+   		"temp_min":63,
+   		"temp_max": 75,
+   		"wind_speed":10.7,
+   		"name":"Kendall Park",
+		"id":2643766,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	},
+	{
+		"temp":75,
+   		"pressure":1053,
+   		"humidity":76,
+   		"temp_min":62,
+   		"temp_max": 81,
+   		"wind_speed":2.1,
+   		"name":"Franklin Park",
+		"id":2643767,
+		"icon":"https://openweathermap.org/img/wn/10d@2x.png"
+	},
+	{
+		"temp":85,
+   		"pressure":1011,
+   		"humidity":96,
+   		"temp_min":73,
+   		"temp_max": 88,
+   		"wind_speed":8.7,
+   		"name":"Salt Lake City",
+		"id":2643768,
+		"icon":"https://openweathermap.org/img/wn/01d@2x.png"   
+
+	},
+	{
+		"temp":65,
+   		"pressure":1010,
+   		"humidity":36,
+   		"temp_min":63,
+   		"temp_max": 75,
+   		"wind_speed":10.7,
+   		"name":"Orlando",
+		"id":2643769,
+		"icon":"http://openweathermap.org/img/wn/04d@2x.png"
+
+	}
+]
+
+
+
+
+
+
+
+
