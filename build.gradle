@@ -1,6 +1,7 @@
 plugins {
     id 'org.springframework.boot' version '1.5.22.RELEASE'
     id 'java'
+    id("org.openrewrite.rewrite") version("5.40.0")
 }
 
 group = 'com.weather'
@@ -18,8 +19,17 @@ dependencies {
     testImplementation('org.springframework.boot:spring-boot-starter-test') {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
+    rewrite("org.openrewrite.recipe:rewrite-migrate-java:1.20.0")
+
+    // Spring 1 to 2 migration
+    rewrite(platform("org.openrewrite.recipe:rewrite-recipe-bom:1.18.0"))
+    rewrite("org.openrewrite.recipe:rewrite-spring")
 }
 
 test {
 	useJUnitPlatform()
+}
+
+rewrite {
+    activeRecipe("migration")
 }

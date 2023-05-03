@@ -1,0 +1,6 @@
+---
+type: specs.openrewrite.org/v1beta/recipe
+name: migration
+recipeList:
+  - org.openrewrite.java.migrate.Java8toJava11
+  - org.openrewrite.java.spring.boot2.UpgradeSpringBoot_2_7
